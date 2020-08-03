@@ -1,6 +1,6 @@
-# Cryptocurrencies
+# Cryptocurrency
 Unsupervised Machine Learning to analyze data on the cryptocurrencies traded on the market.
-Please refer to the Cryptocurrenct ML Jupyter Notebook for the code.
+Please refer to the Cryptocurrency ML Jupyter Notebook for the code.
 
 ## Objectives
 The goalfor this chalenge is to:
